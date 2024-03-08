@@ -72,7 +72,7 @@ dirigeant . auto-entrepreneur . cotisations et contributions . TFC . métiers:
       arrondi: oui
 
   avec:
-    taux service: 0.48%
+    taux service: 0.58%
     taux vente: 0.22%
 
 dirigeant . auto-entrepreneur . cotisations et contributions . TFC . métiers . taux Alsace:
